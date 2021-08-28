@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item
+        android:id="@+id/plus"
+        android:title="확대"/>
+    <Item
+        android:id="@+id/minus"
+        android:title="축소"/>
+    <Item
+        android:id="@+id/rotate"
+        android:title="회전"/>
+    <Item
+        android:id="@+id/blight"
+        android:title="밝게"/>
+    <Item
+        android:id="@+id/dark"
+        android:title="어둡게"/>
+    <Item
+        android:id="@+id/gray"
+        android:title="그레이"/>
+
+
+
+</menu>
